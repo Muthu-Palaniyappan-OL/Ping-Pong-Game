@@ -1,4 +1,5 @@
-# Ping Pong Game #### 20 October 2019
+# Ping Pong Game 
+### (20 October 2019)
 
 ## About
 Ping Pong is a 2D game created for my 12th grade IP using C++ with OpenGL & Freeglut libraries.
