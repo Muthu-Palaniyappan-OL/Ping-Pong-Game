@@ -2,13 +2,14 @@
 ### (20 October 2019)
 
 ## About
-Ping Pong is a 2D game created for my 12th grade IP using C++ with OpenGL & Freeglut libraries.
+Ping Pong is a 2D game created for my 12th Grade Investigatory Project using C++, C with OpenGL & Freeglut libraries.
 
 ## Installing The Ping Pong Game
-Install Ping Pong in your computer From Ping_Pong_Setup_File.exe.
+Install Ping Pong Game in your computer From Ping_Pong_Setup_File.exe.
+Run [Ping_Pong_Setup_File.exe](https://github.com/Muthu-Palaniyappan-OL/PingPongGame/blob/main/Ping_Pong_Setup_File.exe).
 
 ## About The Code
-Game was made using C++.
+Game was made using C++, C.
 Opengl, Freeglut libraries were used to create this 2D game.
 INNO Setup application was used to create Ping_Pong_Setup_File.exe file.
 
