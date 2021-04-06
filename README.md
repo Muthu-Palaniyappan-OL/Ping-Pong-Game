@@ -1,5 +1,5 @@
 # Ping Pong Game 
-### (20 October 2019)
+### (Completed on 20 October 2019)
 
 ## About
 Ping Pong is a 2D game created for my 12th Grade Investigatory Project using C++, C with OpenGL & Freeglut libraries.
