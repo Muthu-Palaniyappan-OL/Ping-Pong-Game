@@ -14,4 +14,4 @@ Opengl, Freeglut libraries were used to create this 2D game.
 INNO Setup application was used to create Ping_Pong_Setup_File.exe file.
 
 ## Thanks A Lot For Seeing My Project
-For Additional Info [Contact Me](https://www.instagram.com/muthu_palaniyappan_ol/)
+For Additional Information [Contact Me](https://www.instagram.com/muthu_palaniyappan_ol/)
